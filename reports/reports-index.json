@@ -1,0 +1,16 @@
+{
+  "generated": "2026-06-27T05:53:18.407038",
+  "total_reports": 1,
+  "reports": [
+    {
+      "timestamp": "reports-index",
+      "provider": "unknown",
+      "suite": "unknown",
+      "total_tests": 0,
+      "passed": 0,
+      "average_score": 0,
+      "filename": "reports-index.json",
+      "config_used": {}
+    }
+  ]
+}

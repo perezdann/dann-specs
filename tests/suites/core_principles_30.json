@@ -1,0 +1,542 @@
+[
+  {
+    "id": "core-000",
+    "category": "core_principles",
+    "principle": "Think & Frame Before Acting",
+    "task": "Task 0: Implement feature related to think & frame before acting",
+    "prompt": "Implement a feature. Pay special attention to the principle of Think & Frame Before Acting.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-001",
+    "category": "core_principles",
+    "principle": "Simplicity & Minimum Viable",
+    "task": "Task 1: Implement feature related to simplicity & minimum viable",
+    "prompt": "Implement a feature. Pay special attention to the principle of Simplicity & Minimum Viable.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-002",
+    "category": "core_principles",
+    "principle": "Surgical & Precise Changes",
+    "task": "Task 2: Implement feature related to surgical & precise changes",
+    "prompt": "Implement a feature. Pay special attention to the principle of Surgical & Precise Changes.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-003",
+    "category": "core_principles",
+    "principle": "Goal-Driven with Verification",
+    "task": "Task 3: Implement feature related to goal-driven with verification",
+    "prompt": "Implement a feature. Pay special attention to the principle of Goal-Driven with Verification.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-004",
+    "category": "core_principles",
+    "principle": "Surface Tradeoffs & Log Decisions",
+    "task": "Task 4: Implement feature related to surface tradeoffs & log decisions",
+    "prompt": "Implement a feature. Pay special attention to the principle of Surface Tradeoffs & Log Decisions.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-005",
+    "category": "core_principles",
+    "principle": "Verification-First Workflow",
+    "task": "Task 5: Implement feature related to verification-first workflow",
+    "prompt": "Implement a feature. Pay special attention to the principle of Verification-First Workflow.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-006",
+    "category": "core_principles",
+    "principle": "Agentic Workflow Discipline",
+    "task": "Task 6: Implement feature related to agentic workflow discipline",
+    "prompt": "Implement a feature. Pay special attention to the principle of Agentic Workflow Discipline.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-007",
+    "category": "core_principles",
+    "principle": "Think & Frame Before Acting",
+    "task": "Task 7: Implement feature related to think & frame before acting",
+    "prompt": "Implement a feature. Pay special attention to the principle of Think & Frame Before Acting.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-008",
+    "category": "core_principles",
+    "principle": "Simplicity & Minimum Viable",
+    "task": "Task 8: Implement feature related to simplicity & minimum viable",
+    "prompt": "Implement a feature. Pay special attention to the principle of Simplicity & Minimum Viable.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-009",
+    "category": "core_principles",
+    "principle": "Surgical & Precise Changes",
+    "task": "Task 9: Implement feature related to surgical & precise changes",
+    "prompt": "Implement a feature. Pay special attention to the principle of Surgical & Precise Changes.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-010",
+    "category": "core_principles",
+    "principle": "Goal-Driven with Verification",
+    "task": "Task 10: Implement feature related to goal-driven with verification",
+    "prompt": "Implement a feature. Pay special attention to the principle of Goal-Driven with Verification.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-011",
+    "category": "core_principles",
+    "principle": "Surface Tradeoffs & Log Decisions",
+    "task": "Task 11: Implement feature related to surface tradeoffs & log decisions",
+    "prompt": "Implement a feature. Pay special attention to the principle of Surface Tradeoffs & Log Decisions.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-012",
+    "category": "core_principles",
+    "principle": "Verification-First Workflow",
+    "task": "Task 12: Implement feature related to verification-first workflow",
+    "prompt": "Implement a feature. Pay special attention to the principle of Verification-First Workflow.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-013",
+    "category": "core_principles",
+    "principle": "Agentic Workflow Discipline",
+    "task": "Task 13: Implement feature related to agentic workflow discipline",
+    "prompt": "Implement a feature. Pay special attention to the principle of Agentic Workflow Discipline.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-014",
+    "category": "core_principles",
+    "principle": "Think & Frame Before Acting",
+    "task": "Task 14: Implement feature related to think & frame before acting",
+    "prompt": "Implement a feature. Pay special attention to the principle of Think & Frame Before Acting.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-015",
+    "category": "core_principles",
+    "principle": "Simplicity & Minimum Viable",
+    "task": "Task 15: Implement feature related to simplicity & minimum viable",
+    "prompt": "Implement a feature. Pay special attention to the principle of Simplicity & Minimum Viable.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-016",
+    "category": "core_principles",
+    "principle": "Surgical & Precise Changes",
+    "task": "Task 16: Implement feature related to surgical & precise changes",
+    "prompt": "Implement a feature. Pay special attention to the principle of Surgical & Precise Changes.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-017",
+    "category": "core_principles",
+    "principle": "Goal-Driven with Verification",
+    "task": "Task 17: Implement feature related to goal-driven with verification",
+    "prompt": "Implement a feature. Pay special attention to the principle of Goal-Driven with Verification.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-018",
+    "category": "core_principles",
+    "principle": "Surface Tradeoffs & Log Decisions",
+    "task": "Task 18: Implement feature related to surface tradeoffs & log decisions",
+    "prompt": "Implement a feature. Pay special attention to the principle of Surface Tradeoffs & Log Decisions.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-019",
+    "category": "core_principles",
+    "principle": "Verification-First Workflow",
+    "task": "Task 19: Implement feature related to verification-first workflow",
+    "prompt": "Implement a feature. Pay special attention to the principle of Verification-First Workflow.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-020",
+    "category": "core_principles",
+    "principle": "Agentic Workflow Discipline",
+    "task": "Task 20: Implement feature related to agentic workflow discipline",
+    "prompt": "Implement a feature. Pay special attention to the principle of Agentic Workflow Discipline.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-021",
+    "category": "core_principles",
+    "principle": "Think & Frame Before Acting",
+    "task": "Task 21: Implement feature related to think & frame before acting",
+    "prompt": "Implement a feature. Pay special attention to the principle of Think & Frame Before Acting.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-022",
+    "category": "core_principles",
+    "principle": "Simplicity & Minimum Viable",
+    "task": "Task 22: Implement feature related to simplicity & minimum viable",
+    "prompt": "Implement a feature. Pay special attention to the principle of Simplicity & Minimum Viable.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-023",
+    "category": "core_principles",
+    "principle": "Surgical & Precise Changes",
+    "task": "Task 23: Implement feature related to surgical & precise changes",
+    "prompt": "Implement a feature. Pay special attention to the principle of Surgical & Precise Changes.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-024",
+    "category": "core_principles",
+    "principle": "Goal-Driven with Verification",
+    "task": "Task 24: Implement feature related to goal-driven with verification",
+    "prompt": "Implement a feature. Pay special attention to the principle of Goal-Driven with Verification.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-025",
+    "category": "core_principles",
+    "principle": "Surface Tradeoffs & Log Decisions",
+    "task": "Task 25: Implement feature related to surface tradeoffs & log decisions",
+    "prompt": "Implement a feature. Pay special attention to the principle of Surface Tradeoffs & Log Decisions.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-026",
+    "category": "core_principles",
+    "principle": "Verification-First Workflow",
+    "task": "Task 26: Implement feature related to verification-first workflow",
+    "prompt": "Implement a feature. Pay special attention to the principle of Verification-First Workflow.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-027",
+    "category": "core_principles",
+    "principle": "Agentic Workflow Discipline",
+    "task": "Task 27: Implement feature related to agentic workflow discipline",
+    "prompt": "Implement a feature. Pay special attention to the principle of Agentic Workflow Discipline.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-028",
+    "category": "core_principles",
+    "principle": "Think & Frame Before Acting",
+    "task": "Task 28: Implement feature related to think & frame before acting",
+    "prompt": "Implement a feature. Pay special attention to the principle of Think & Frame Before Acting.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  },
+  {
+    "id": "core-029",
+    "category": "core_principles",
+    "principle": "Simplicity & Minimum Viable",
+    "task": "Task 29: Implement feature related to simplicity & minimum viable",
+    "prompt": "Implement a feature. Pay special attention to the principle of Simplicity & Minimum Viable.",
+    "must_do": [
+      "State assumptions explicitly",
+      "Define verifiable success criteria",
+      "Make only minimal necessary changes",
+      "Show evidence of verification"
+    ],
+    "must_avoid": [
+      "over-engineering",
+      "scope creep",
+      "vague success claims"
+    ]
+  }
+]

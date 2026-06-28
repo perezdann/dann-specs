@@ -1,0 +1,18 @@
+# Build artifacts
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Translation sync cache
+.translation-sync-cache.json
+
+# Do NOT ignore reports/ — we want community reports committed

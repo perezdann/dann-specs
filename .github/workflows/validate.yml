@@ -1,0 +1,40 @@
+name: Validate Spec
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate spec structure
+        run: |
+          echo "Checking dann-specs structure..."
+          test -f AGENTS.md || { echo "ERROR: AGENTS.md missing"; exit 1; }
+          test -f evaluation-rubric.md || { echo "ERROR: evaluation-rubric.md missing"; exit 1; }
+          test -f eval-profile.json || { echo "ERROR: eval-profile.json missing"; exit 1; }
+          test -f mini/core.md || { echo "ERROR: mini/core.md missing"; exit 1; }
+          test -d roles || { echo "ERROR: roles/ missing"; exit 1; }
+          test -d variants || { echo "ERROR: variants/ missing"; exit 1; }
+
+          echo "Checking eval-profile.json is valid JSON..."
+          python3 -m json.tool eval-profile.json > /dev/null || { echo "ERROR: invalid JSON"; exit 1; }
+
+          echo "All checks passed."
+
+      - name: Validate roles
+        run: |
+          count=$(ls roles/*.md 2>/dev/null | wc -l)
+          echo "Roles found: $count"
+          test $count -ge 10 || { echo "ERROR: expected at least 10 roles"; exit 1; }
+
+      - name: Validate variants
+        run: |
+          count=$(ls -d variants/*/ 2>/dev/null | wc -l)
+          echo "Variants found: $count"
+          test $count -ge 5 || { echo "ERROR: expected at least 5 variants"; exit 1; }

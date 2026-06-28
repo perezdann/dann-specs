@@ -1,0 +1,13 @@
+# dann-specs for Cline
+
+Follow the unified principles in the parent AGENTS.md.
+
+Key adapted rules for this project:
+
+- Think & Frame before changes.
+- Prefer the smallest correct edit.
+- Only modify what the task requires.
+- Always include a verification step (tests, commands, or explicit checks).
+- Surface tradeoffs when relevant.
+
+Use the full AGENTS.md for complete details.

@@ -1,0 +1,212 @@
+[
+  {
+    "id": "tool-claude-000",
+    "category": "tool_adapters",
+    "tool": "claude",
+    "task": "Use claude with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-cline-001",
+    "category": "tool_adapters",
+    "tool": "cline",
+    "task": "Use cline with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-continue-002",
+    "category": "tool_adapters",
+    "tool": "continue",
+    "task": "Use continue with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-cursor-003",
+    "category": "tool_adapters",
+    "tool": "cursor",
+    "task": "Use cursor with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-aider-004",
+    "category": "tool_adapters",
+    "tool": "aider",
+    "task": "Use aider with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-claude-005",
+    "category": "tool_adapters",
+    "tool": "claude",
+    "task": "Use claude with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-cline-006",
+    "category": "tool_adapters",
+    "tool": "cline",
+    "task": "Use cline with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-continue-007",
+    "category": "tool_adapters",
+    "tool": "continue",
+    "task": "Use continue with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-cursor-008",
+    "category": "tool_adapters",
+    "tool": "cursor",
+    "task": "Use cursor with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-aider-009",
+    "category": "tool_adapters",
+    "tool": "aider",
+    "task": "Use aider with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-claude-010",
+    "category": "tool_adapters",
+    "tool": "claude",
+    "task": "Use claude with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-cline-011",
+    "category": "tool_adapters",
+    "tool": "cline",
+    "task": "Use cline with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-continue-012",
+    "category": "tool_adapters",
+    "tool": "continue",
+    "task": "Use continue with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-cursor-013",
+    "category": "tool_adapters",
+    "tool": "cursor",
+    "task": "Use cursor with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-aider-014",
+    "category": "tool_adapters",
+    "tool": "aider",
+    "task": "Use aider with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-claude-015",
+    "category": "tool_adapters",
+    "tool": "claude",
+    "task": "Use claude with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-cline-016",
+    "category": "tool_adapters",
+    "tool": "cline",
+    "task": "Use cline with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-continue-017",
+    "category": "tool_adapters",
+    "tool": "continue",
+    "task": "Use continue with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-cursor-018",
+    "category": "tool_adapters",
+    "tool": "cursor",
+    "task": "Use cursor with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-aider-019",
+    "category": "tool_adapters",
+    "tool": "aider",
+    "task": "Use aider with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-claude-020",
+    "category": "tool_adapters",
+    "tool": "claude",
+    "task": "Use claude with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-cline-021",
+    "category": "tool_adapters",
+    "tool": "cline",
+    "task": "Use cline with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-continue-022",
+    "category": "tool_adapters",
+    "tool": "continue",
+    "task": "Use continue with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-cursor-023",
+    "category": "tool_adapters",
+    "tool": "cursor",
+    "task": "Use cursor with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-aider-024",
+    "category": "tool_adapters",
+    "tool": "aider",
+    "task": "Use aider with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-claude-025",
+    "category": "tool_adapters",
+    "tool": "claude",
+    "task": "Use claude with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-cline-026",
+    "category": "tool_adapters",
+    "tool": "cline",
+    "task": "Use cline with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-continue-027",
+    "category": "tool_adapters",
+    "tool": "continue",
+    "task": "Use continue with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-cursor-028",
+    "category": "tool_adapters",
+    "tool": "cursor",
+    "task": "Use cursor with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  },
+  {
+    "id": "tool-aider-029",
+    "category": "tool_adapters",
+    "tool": "aider",
+    "task": "Use aider with dann-specs guidelines",
+    "expected": "Follow format-specific rules while respecting core principles"
+  }
+]

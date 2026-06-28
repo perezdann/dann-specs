@@ -1,0 +1,212 @@
+[
+  {
+    "id": "conflict-000",
+    "category": "conflict_resolution",
+    "scenario": "simplicity_vs_verification",
+    "task": "Task with principle conflict 0",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-001",
+    "category": "conflict_resolution",
+    "scenario": "surgical_vs_goal",
+    "task": "Task with principle conflict 1",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-002",
+    "category": "conflict_resolution",
+    "scenario": "framing_vs_speed",
+    "task": "Task with principle conflict 2",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-003",
+    "category": "conflict_resolution",
+    "scenario": "simplicity_vs_verification",
+    "task": "Task with principle conflict 3",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-004",
+    "category": "conflict_resolution",
+    "scenario": "surgical_vs_goal",
+    "task": "Task with principle conflict 4",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-005",
+    "category": "conflict_resolution",
+    "scenario": "framing_vs_speed",
+    "task": "Task with principle conflict 5",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-006",
+    "category": "conflict_resolution",
+    "scenario": "simplicity_vs_verification",
+    "task": "Task with principle conflict 6",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-007",
+    "category": "conflict_resolution",
+    "scenario": "surgical_vs_goal",
+    "task": "Task with principle conflict 7",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-008",
+    "category": "conflict_resolution",
+    "scenario": "framing_vs_speed",
+    "task": "Task with principle conflict 8",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-009",
+    "category": "conflict_resolution",
+    "scenario": "simplicity_vs_verification",
+    "task": "Task with principle conflict 9",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-010",
+    "category": "conflict_resolution",
+    "scenario": "surgical_vs_goal",
+    "task": "Task with principle conflict 10",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-011",
+    "category": "conflict_resolution",
+    "scenario": "framing_vs_speed",
+    "task": "Task with principle conflict 11",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-012",
+    "category": "conflict_resolution",
+    "scenario": "simplicity_vs_verification",
+    "task": "Task with principle conflict 12",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-013",
+    "category": "conflict_resolution",
+    "scenario": "surgical_vs_goal",
+    "task": "Task with principle conflict 13",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-014",
+    "category": "conflict_resolution",
+    "scenario": "framing_vs_speed",
+    "task": "Task with principle conflict 14",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-015",
+    "category": "conflict_resolution",
+    "scenario": "simplicity_vs_verification",
+    "task": "Task with principle conflict 15",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-016",
+    "category": "conflict_resolution",
+    "scenario": "surgical_vs_goal",
+    "task": "Task with principle conflict 16",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-017",
+    "category": "conflict_resolution",
+    "scenario": "framing_vs_speed",
+    "task": "Task with principle conflict 17",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-018",
+    "category": "conflict_resolution",
+    "scenario": "simplicity_vs_verification",
+    "task": "Task with principle conflict 18",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-019",
+    "category": "conflict_resolution",
+    "scenario": "surgical_vs_goal",
+    "task": "Task with principle conflict 19",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-020",
+    "category": "conflict_resolution",
+    "scenario": "framing_vs_speed",
+    "task": "Task with principle conflict 20",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-021",
+    "category": "conflict_resolution",
+    "scenario": "simplicity_vs_verification",
+    "task": "Task with principle conflict 21",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-022",
+    "category": "conflict_resolution",
+    "scenario": "surgical_vs_goal",
+    "task": "Task with principle conflict 22",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-023",
+    "category": "conflict_resolution",
+    "scenario": "framing_vs_speed",
+    "task": "Task with principle conflict 23",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-024",
+    "category": "conflict_resolution",
+    "scenario": "simplicity_vs_verification",
+    "task": "Task with principle conflict 24",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-025",
+    "category": "conflict_resolution",
+    "scenario": "surgical_vs_goal",
+    "task": "Task with principle conflict 25",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-026",
+    "category": "conflict_resolution",
+    "scenario": "framing_vs_speed",
+    "task": "Task with principle conflict 26",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-027",
+    "category": "conflict_resolution",
+    "scenario": "simplicity_vs_verification",
+    "task": "Task with principle conflict 27",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-028",
+    "category": "conflict_resolution",
+    "scenario": "surgical_vs_goal",
+    "task": "Task with principle conflict 28",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  },
+  {
+    "id": "conflict-029",
+    "category": "conflict_resolution",
+    "scenario": "framing_vs_speed",
+    "task": "Task with principle conflict 29",
+    "expected": "Apply hierarchy: Safety > Verification > Surgical > Simplicity"
+  }
+]

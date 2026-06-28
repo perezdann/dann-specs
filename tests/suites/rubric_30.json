@@ -1,0 +1,212 @@
+[
+  {
+    "id": "rubric-000",
+    "category": "rubric",
+    "dimension": "Framing & Assumptions",
+    "task": "Task for Framing & Assumptions",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-001",
+    "category": "rubric",
+    "dimension": "Scope Discipline",
+    "task": "Task for Scope Discipline",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-002",
+    "category": "rubric",
+    "dimension": "Simplicity",
+    "task": "Task for Simplicity",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-003",
+    "category": "rubric",
+    "dimension": "Verification",
+    "task": "Task for Verification",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-004",
+    "category": "rubric",
+    "dimension": "Tradeoffs",
+    "task": "Task for Tradeoffs",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-005",
+    "category": "rubric",
+    "dimension": "Framing & Assumptions",
+    "task": "Task for Framing & Assumptions",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-006",
+    "category": "rubric",
+    "dimension": "Scope Discipline",
+    "task": "Task for Scope Discipline",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-007",
+    "category": "rubric",
+    "dimension": "Simplicity",
+    "task": "Task for Simplicity",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-008",
+    "category": "rubric",
+    "dimension": "Verification",
+    "task": "Task for Verification",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-009",
+    "category": "rubric",
+    "dimension": "Tradeoffs",
+    "task": "Task for Tradeoffs",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-010",
+    "category": "rubric",
+    "dimension": "Framing & Assumptions",
+    "task": "Task for Framing & Assumptions",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-011",
+    "category": "rubric",
+    "dimension": "Scope Discipline",
+    "task": "Task for Scope Discipline",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-012",
+    "category": "rubric",
+    "dimension": "Simplicity",
+    "task": "Task for Simplicity",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-013",
+    "category": "rubric",
+    "dimension": "Verification",
+    "task": "Task for Verification",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-014",
+    "category": "rubric",
+    "dimension": "Tradeoffs",
+    "task": "Task for Tradeoffs",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-015",
+    "category": "rubric",
+    "dimension": "Framing & Assumptions",
+    "task": "Task for Framing & Assumptions",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-016",
+    "category": "rubric",
+    "dimension": "Scope Discipline",
+    "task": "Task for Scope Discipline",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-017",
+    "category": "rubric",
+    "dimension": "Simplicity",
+    "task": "Task for Simplicity",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-018",
+    "category": "rubric",
+    "dimension": "Verification",
+    "task": "Task for Verification",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-019",
+    "category": "rubric",
+    "dimension": "Tradeoffs",
+    "task": "Task for Tradeoffs",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-020",
+    "category": "rubric",
+    "dimension": "Framing & Assumptions",
+    "task": "Task for Framing & Assumptions",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-021",
+    "category": "rubric",
+    "dimension": "Scope Discipline",
+    "task": "Task for Scope Discipline",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-022",
+    "category": "rubric",
+    "dimension": "Simplicity",
+    "task": "Task for Simplicity",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-023",
+    "category": "rubric",
+    "dimension": "Verification",
+    "task": "Task for Verification",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-024",
+    "category": "rubric",
+    "dimension": "Tradeoffs",
+    "task": "Task for Tradeoffs",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-025",
+    "category": "rubric",
+    "dimension": "Framing & Assumptions",
+    "task": "Task for Framing & Assumptions",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-026",
+    "category": "rubric",
+    "dimension": "Scope Discipline",
+    "task": "Task for Scope Discipline",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-027",
+    "category": "rubric",
+    "dimension": "Simplicity",
+    "task": "Task for Simplicity",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-028",
+    "category": "rubric",
+    "dimension": "Verification",
+    "task": "Task for Verification",
+    "expected_min_score": 4
+  },
+  {
+    "id": "rubric-029",
+    "category": "rubric",
+    "dimension": "Tradeoffs",
+    "task": "Task for Tradeoffs",
+    "expected_min_score": 4
+  }
+]

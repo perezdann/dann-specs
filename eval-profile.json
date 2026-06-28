@@ -1,0 +1,66 @@
+{
+  "name": "dann-specs",
+  "version": "2.1",
+  "description": "Universal specification for AI agents — behavioral evaluation profile",
+  "default_language": "en",
+  "languages": {
+    "en": {
+      "spec_files": {
+        "core": "AGENTS.md",
+        "compact": "mini/core.md",
+        "rubric": "evaluation-rubric.md"
+      }
+    },
+    "es": {
+      "spec_files": {
+        "core": "AGENTS.es.md",
+        "compact": "mini/core.es.md",
+        "rubric": "evaluation-rubric.es.md"
+      }
+    }
+  },
+  "spec_files": {
+    "core": "AGENTS.md",
+    "compact": "mini/core.md",
+    "rubric": "evaluation-rubric.md"
+  },
+  "roles_dir": "roles",
+  "variants_dir": "variants",
+  "suites": {
+    "core_principles": { "count": 20 },
+    "rubric_dimensions": { "count": 40 },
+    "roles": { "count": 40 },
+    "variants": { "count": 25 },
+    "concrete": { "count": 30, "stratified": true },
+    "security": { "count": 20 },
+    "session_continuity": { "count": 15 }
+  },
+  "principles": [
+    "Think & Frame Before Acting",
+    "Simplicity & Minimum Viable",
+    "Surgical & Precise Changes",
+    "Goal-Driven with Verification",
+    "Surface Tradeoffs & Log Decisions",
+    "Verification-First Workflow",
+    "Security-Aware Development",
+    "Session Continuity & Audit Trail",
+    "Agentic Workflow Discipline"
+  ],
+  "rubric_dimensions": [
+    "Framing & Assumptions",
+    "Scope Discipline",
+    "Simplicity",
+    "Verification",
+    "Tradeoffs",
+    "Security"
+  ],
+  "roles": [
+    "physician", "lawyer", "accountant", "nurse", "mechanic",
+    "electronics-technician", "seamstress", "graphic-designer", "architect",
+    "domain-specialist", "researcher", "educator", "reviewer", "security-auditor"
+  ],
+  "variants": [
+    "software-development", "research-knowledge", "education-courses",
+    "infra-devops", "product-management", "data-analysis", "professional-services"
+  ]
+}

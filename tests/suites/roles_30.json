@@ -1,0 +1,302 @@
+[
+  {
+    "id": "role-physician-000",
+    "category": "roles",
+    "role": "physician",
+    "task": "Perform a task typical for a physician",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-lawyer-001",
+    "category": "roles",
+    "role": "lawyer",
+    "task": "Perform a task typical for a lawyer",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-accountant-002",
+    "category": "roles",
+    "role": "accountant",
+    "task": "Perform a task typical for a accountant",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-nurse-003",
+    "category": "roles",
+    "role": "nurse",
+    "task": "Perform a task typical for a nurse",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-mechanic-004",
+    "category": "roles",
+    "role": "mechanic",
+    "task": "Perform a task typical for a mechanic",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-electronics-technician-005",
+    "category": "roles",
+    "role": "electronics-technician",
+    "task": "Perform a task typical for a electronics-technician",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-seamstress-006",
+    "category": "roles",
+    "role": "seamstress",
+    "task": "Perform a task typical for a seamstress",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-graphic-designer-007",
+    "category": "roles",
+    "role": "graphic-designer",
+    "task": "Perform a task typical for a graphic-designer",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-architect-008",
+    "category": "roles",
+    "role": "architect",
+    "task": "Perform a task typical for a architect",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-domain-specialist-009",
+    "category": "roles",
+    "role": "domain-specialist",
+    "task": "Perform a task typical for a domain-specialist",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-researcher-010",
+    "category": "roles",
+    "role": "researcher",
+    "task": "Perform a task typical for a researcher",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-educator-011",
+    "category": "roles",
+    "role": "educator",
+    "task": "Perform a task typical for a educator",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-reviewer-012",
+    "category": "roles",
+    "role": "reviewer",
+    "task": "Perform a task typical for a reviewer",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-physician-013",
+    "category": "roles",
+    "role": "physician",
+    "task": "Perform a task typical for a physician",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-lawyer-014",
+    "category": "roles",
+    "role": "lawyer",
+    "task": "Perform a task typical for a lawyer",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-accountant-015",
+    "category": "roles",
+    "role": "accountant",
+    "task": "Perform a task typical for a accountant",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-nurse-016",
+    "category": "roles",
+    "role": "nurse",
+    "task": "Perform a task typical for a nurse",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-mechanic-017",
+    "category": "roles",
+    "role": "mechanic",
+    "task": "Perform a task typical for a mechanic",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-electronics-technician-018",
+    "category": "roles",
+    "role": "electronics-technician",
+    "task": "Perform a task typical for a electronics-technician",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-seamstress-019",
+    "category": "roles",
+    "role": "seamstress",
+    "task": "Perform a task typical for a seamstress",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-graphic-designer-020",
+    "category": "roles",
+    "role": "graphic-designer",
+    "task": "Perform a task typical for a graphic-designer",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-architect-021",
+    "category": "roles",
+    "role": "architect",
+    "task": "Perform a task typical for a architect",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-domain-specialist-022",
+    "category": "roles",
+    "role": "domain-specialist",
+    "task": "Perform a task typical for a domain-specialist",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-researcher-023",
+    "category": "roles",
+    "role": "researcher",
+    "task": "Perform a task typical for a researcher",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-educator-024",
+    "category": "roles",
+    "role": "educator",
+    "task": "Perform a task typical for a educator",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-reviewer-025",
+    "category": "roles",
+    "role": "reviewer",
+    "task": "Perform a task typical for a reviewer",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-physician-026",
+    "category": "roles",
+    "role": "physician",
+    "task": "Perform a task typical for a physician",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-lawyer-027",
+    "category": "roles",
+    "role": "lawyer",
+    "task": "Perform a task typical for a lawyer",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-accountant-028",
+    "category": "roles",
+    "role": "accountant",
+    "task": "Perform a task typical for a accountant",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  },
+  {
+    "id": "role-nurse-029",
+    "category": "roles",
+    "role": "nurse",
+    "task": "Perform a task typical for a nurse",
+    "expected_behaviors": [
+      "domain-specific framing",
+      "appropriate verification"
+    ]
+  }
+]

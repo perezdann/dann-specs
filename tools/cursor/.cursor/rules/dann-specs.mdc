@@ -1,0 +1,16 @@
+---
+description: dann-specs unified agent guidelines (behavioral + verification focused)
+alwaysApply: true
+---
+
+# dann-specs for Cursor
+
+Follow these principles on every coding task:
+
+1. Think & Frame — Surface assumptions and clarify goals.
+2. Simplicity — Minimum viable correct change.
+3. Surgical — Touch only what is needed; match existing style.
+4. Goal-Driven + Verify — Turn requests into testable outcomes. Show evidence.
+5. Tradeoffs — Make important decisions and costs visible.
+
+Full details and workflow guidance are in the repository's AGENTS.md.
